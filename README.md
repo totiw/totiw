@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=totiw&label=Profile%20views&color=0e75b6&style=flat" alt="totiw" /> </p>
 
-- 🌱 I’m currently learning **Redux, React Native, Flutter**
+- 🌱 I’m currently learning **Redux, Laravel, Flutter**
 
-- 💬 Ask me about **react, vue, bootstrap**
+- 💬 Ask me about **React, Vue, Tailwind**
 
 - 📫 How to reach me **totojatiwijayanto.051101@gmail.com**
 
