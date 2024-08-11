@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=totiw&label=Profile%20views&color=0e75b6&style=flat" alt="totiw" /> </p>
 
-- 🌱 I’m currently learning **Redux, Laravel, Flutter**
+- 🌱 I’m currently learning **C#, Docker, Flutter**
 
 - 💬 Ask me about **React, Vue, Tailwind**
 
