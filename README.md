@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi 👋, I'm Toto Jati Wijayanto,<br>🌱 I’m currently learning Express JS, PostgreSQL, RDBMS<br>💬 Ask me about Next Js, React, Tailwind<br>📫 How to reach me totojatiwijayanto.051101@gmail.com
+Hi 👋, I'm Toto Jati Wijayanto, a Frontend Developer specializing in creating responsive user interfaces using JavaScript, React, TypeScript, and CSS to enhance application performance and accessibility.
+
+<br>🌱 I’m currently learning Express JS, PostgreSQL, RDBMS<br>💬 Ask me about Next Js, React, Tailwind<br>📫 How to reach me totojatiwijayanto.051101@gmail.com
 
 
 ## 🌐 Socials:
