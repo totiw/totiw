@@ -1,5 +1,7 @@
 # Hi! 👋, I'm Toto Jati Wijayanto
-A Frontend Developer specializing in creating responsive user interfaces using Next Js, React, TypeScript, and TailwindCSS to enhance application performance and accessibility.
+I specialize in developing responsive and user-friendly interfaces using React.js, Next.js, and TypeScript. My experience includes implementing reusable UI components, integrating REST APIs, managing application forms and data tables, and developing features for business-oriented web applications.
+
+I also have experience in frontend game development, which has helped me develop a broader understanding of interactive user experiences and frontend implementation.
 
 <br>🌱 I’m currently learning Express JS, PostgreSQL, RDBMS<br>💬 Ask me about Next Js, React, Tailwind<br>📫 How to reach me totojatiwijayanto.051101@gmail.com
 
